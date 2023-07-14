@@ -1,5 +1,5 @@
 <template>
-    <div class="sidebar">
+    <div class="sidebar min-h-screen">
        <div class="grid grid-cols-6  mb-1 bg-white p-3 w-full h-full cursor-default ">
              <div class=" relative col-span-5 ">
                 <input type="text" placeholder="Search " class="search-input px-9 py-3  rounded-lg focus:border-blue-500 focus:ring-blue-600" />
